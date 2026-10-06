@@ -4,26 +4,40 @@
   <YmapFilenames>
     <Item>hellvillage_thelab.ymap</Item>
     <Item>ileprops.ymap</Item>
+    <Item>piratebay_thelab.ymap</Item>
     <Item>smoke_thelab.ymap</Item>
+    <Item>sprunk_strangerthings.ymap</Item>
     <Item>universestore_vulcan_island.ymap</Item>
+    <Item>sprunk_ile_terreur_décopiratezoe.ymap</Item>
   </YmapFilenames>
   <YtypFilenames>
-    <Item>props\sprunk_terror_island.ytyp</Item>
-    <Item>props-dirty\country_02_metadata_017_strm.ytyp</Item>
-    <Item>props-dirty\universestore_mao_uni_01.ytyp</Item>
-    <Item>props-dirty\universestore_mao_uni_01c.ytyp</Item>
-    <Item>props-dirty\universestore_newluz_west.ytyp</Item>
-    <Item>props-dirty\universestore_obj_vulcan_01.ytyp</Item>
-    <Item>props-dirty\universestore_ponte_g_01a.ytyp</Item>
-    <Item>props-dirty\universestore_vulcan_01a.ytyp</Item>
-    <Item>props-dirty\universestore_vulc_03a.ytyp</Item>
-    <Item>props-dirty2\demon_statue_thelab.ytyp</Item>
-    <Item>props-dirty2\fumo_thelab.ytyp</Item>
-    <Item>props-dirty2\hellvillage.ytyp</Item>
-    <Item>props-dirty2\hell_pillar_thelab.ytyp</Item>
+    <Item>props-custom\props\sprunk_terror_island.ytyp</Item>
+    <Item>props-custom\props matthew\sprunk_big_lune_creepy.ytyp</Item>
+    <Item>props-custom\props matthew\sprunk_strangerthings.ytyp</Item>
+    <Item>props-custom\props-dirty\country_02_metadata_017_strm.ytyp</Item>
+    <Item>props-custom\props-dirty\universestore_mao_uni_01.ytyp</Item>
+    <Item>props-custom\props-dirty\universestore_mao_uni_01c.ytyp</Item>
+    <Item>props-custom\props-dirty\universestore_newluz_west.ytyp</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_01.ytyp</Item>
+    <Item>props-custom\props-dirty\universestore_ponte_g_01a.ytyp</Item>
+    <Item>props-custom\props-dirty\universestore_vulcan_01a.ytyp</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_03a.ytyp</Item>
+    <Item>props-custom\props-dirty2\demon_statue_thelab.ytyp</Item>
+    <Item>props-custom\props-dirty2\fumo_thelab.ytyp</Item>
+    <Item>props-custom\props-dirty2\hellvillage.ytyp</Item>
+    <Item>props-custom\props-dirty2\hell_pillar_thelab.ytyp</Item>
+    <Item>props-custom\props-zoe\medievaldoor2_new_mely.ytyp</Item>
+    <Item>props-custom\props-zoe\piratebay_thelab.ytyp</Item>
+    <Item>props-custom\props-zoe\sfera_luminosa.ytyp</Item>
+    <Item>props-custom\props-zoe\skull_torch_mely.ytyp</Item>
+    <Item>props-custom\props-zoe\sprunk_props_zozo.ytyp</Item>
+    <Item>props-custom\props-zoe\ytyp-a-regarder\medievaldoor2_new_mely.ytyp</Item>
+    <Item>props-custom\props-zoe\ytyp-a-regarder\piratebay_thelab.ytyp</Item>
+    <Item>props-custom\props-zoe\ytyp-a-regarder\sfera_luminosa.ytyp</Item>
+    <Item>props-custom\props-zoe\ytyp-a-regarder\skull_torch_mely.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames>
-    <Item>props-dirty2\hell_terrain_thelab_col.ybn</Item>
+    <Item>props-custom\props-dirty2\hell_terrain_thelab_col.ybn</Item>
   </YbnFilenames>
   <YndFilenames />
   <YnvFilenames />
@@ -31,100 +45,222 @@
   <ScenarioFilenames />
   <AudioRelFilenames />
   <YdrFilenames>
-    <Item>props\sprunk_terror_ilerock.ydr</Item>
-    <Item>props\sprunk_terror_pauvent.ydr</Item>
-    <Item>props\sprunk_terror_plaqueplage.ydr</Item>
-    <Item>props\sprunk_terror_pontplage.ydr</Item>
-    <Item>props\sprunk_terror_sand1.ydr</Item>
-    <Item>props-dirty\cs2_30_seaweed_long_m.ydr</Item>
-    <Item>props-dirty\universestore_mao_uni_01.ydr</Item>
-    <Item>props-dirty\universestore_mao_uni_01a.ydr</Item>
-    <Item>props-dirty\universestore_mao_uni_01b.ydr</Item>
-    <Item>props-dirty\universestore_mao_uni_01c.ydr</Item>
-    <Item>props-dirty\universestore_newluz_west.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_01.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_02.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_03.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_05.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_08.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_10.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_11.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_15.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_17.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_18.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_19.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_20.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_21.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_22.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_23.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_24.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_26.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_27.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_28.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_29.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_30.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_31.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_32.ydr</Item>
-    <Item>props-dirty\universestore_obj_vulcan_33.ydr</Item>
-    <Item>props-dirty\universestore_terreno_a_01aa.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01a.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01b.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01c.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01d.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01e.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01f.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01g.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01h.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01i.ydr</Item>
-    <Item>props-dirty\universestore_vulc_01j.ydr</Item>
-    <Item>props-dirty\universestore_vulc_02a.ydr</Item>
-    <Item>props-dirty\universestore_vulc_02b.ydr</Item>
-    <Item>props-dirty\universestore_vulc_02c.ydr</Item>
-    <Item>props-dirty\universestore_vulc_02d.ydr</Item>
-    <Item>props-dirty\universestore_vulc_02e.ydr</Item>
-    <Item>props-dirty\universestore_vulc_02f.ydr</Item>
-    <Item>props-dirty\universestore_vulc_03a.ydr</Item>
-    <Item>props-dirty2\bones_thelab.ydr</Item>
-    <Item>props-dirty2\campfire_mely.ydr</Item>
-    <Item>props-dirty2\cellaprigione_thelab.ydr</Item>
-    <Item>props-dirty2\column_skeleton_thelab.ydr</Item>
-    <Item>props-dirty2\csx_coastrok4_thelab.ydr</Item>
-    <Item>props-dirty2\darkwall_rock_mely.ydr</Item>
-    <Item>props-dirty2\dark_rock_thelab.ydr</Item>
-    <Item>props-dirty2\demon_skull_thelab.ydr</Item>
-    <Item>props-dirty2\demon_statue_thelab.ydr</Item>
-    <Item>props-dirty2\entrance_demon_thelab.ydr</Item>
-    <Item>props-dirty2\flatrock2_thelab.ydr</Item>
-    <Item>props-dirty2\fumo_thelab.ydr</Item>
-    <Item>props-dirty2\gianchain_thelab.ydr</Item>
-    <Item>props-dirty2\hell_chest_thelab.ydr</Item>
-    <Item>props-dirty2\hell_column_thelab.ydr</Item>
-    <Item>props-dirty2\hell_demonstatue_thelab.ydr</Item>
-    <Item>props-dirty2\hell_gargoyle_thelab.ydr</Item>
-    <Item>props-dirty2\hell_pillar_thelab.ydr</Item>
-    <Item>props-dirty2\hell_terrain_thelab_model.ydr</Item>
-    <Item>props-dirty2\lava_stairs_thelab.ydr</Item>
-    <Item>props-dirty2\medieval_light_mely.ydr</Item>
-    <Item>props-dirty2\portaprigione_thelab.ydr</Item>
-    <Item>props-dirty2\rocklava_thelab.ydr</Item>
-    <Item>props-dirty2\rustchain_thelab.ydr</Item>
-    <Item>props-dirty2\satanic_throne_thelab.ydr</Item>
-    <Item>props-dirty2\spike_chain_thelab.ydr</Item>
-    <Item>props-dirty2\stalagmite_1_thelab.ydr</Item>
-    <Item>props-dirty2\stalagmite_2_thelab.ydr</Item>
-    <Item>props-dirty2\stalagmite_3_thelab.ydr</Item>
-    <Item>props-dirty2\stalagmite_4_thelab.ydr</Item>
-    <Item>props-dirty2\stonehouse_thelab.ydr</Item>
-    <Item>props-dirty2\stone_bridge_thelab.ydr</Item>
+    <Item>props-custom\props\sprunk_terror_ilerock.ydr</Item>
+    <Item>props-custom\props\sprunk_terror_pauvent.ydr</Item>
+    <Item>props-custom\props\sprunk_terror_plaqueplage.ydr</Item>
+    <Item>props-custom\props\sprunk_terror_pontplage.ydr</Item>
+    <Item>props-custom\props\sprunk_terror_sand1.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_arbre_champi_bleu.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_arbre_champi_rouge.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_arbre_mort.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_arbre_mort2.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_big_lune_creepy.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_bones.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_bones_crâne0.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_bones_crâne1.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_cemitery1.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_cercueil.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_cercueil1.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_cercueil2.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_cercueil3.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_chien_des_enfers.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_citrouille_tueur.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_corps_mutilé_accroché.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_creepyhead.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_cryptg.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_firepillar.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_groupe_de_main.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_lapin_banc_sang.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_lights_orange.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_lights_purple_st.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin01.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin02.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin03.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin04.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin05.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin08.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin09.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin10.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin11.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_manequin12.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_medieval_light_mely.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_pumpkin.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_pumpkin_spider.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_scalet_diffindo_prop.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton_01.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton_02.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton_03.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton_07.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton_08.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton_09.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton_10.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton_11.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_skullstatue.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_01.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_02.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_03.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_04.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_05.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_06.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_07.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_08.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_09.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_toile_d'araigner_10.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_tombolo_zombie_accroche.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_tombolo_zombie_pendu.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_tomb_pilier.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_tête_coupé.ydr</Item>
+    <Item>props-custom\props matthew\sprunk_vampichurch.ydr</Item>
+    <Item>props-custom\props-dirty\cs2_30_seaweed_long_m.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_mao_uni_01.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_mao_uni_01a.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_mao_uni_01b.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_mao_uni_01c.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_newluz_west.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_01.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_02.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_03.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_05.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_08.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_10.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_11.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_15.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_17.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_18.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_19.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_20.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_21.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_22.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_23.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_24.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_26.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_27.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_28.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_29.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_30.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_31.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_32.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_obj_vulcan_33.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_terreno_a_01aa.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01a.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01b.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01c.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01d.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01e.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01f.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01g.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01h.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01i.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_01j.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_02a.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_02b.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_02c.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_02d.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_02e.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_02f.ydr</Item>
+    <Item>props-custom\props-dirty\universestore_vulc_03a.ydr</Item>
+    <Item>props-custom\props-dirty2\bones_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\campfire_mely.ydr</Item>
+    <Item>props-custom\props-dirty2\cellaprigione_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\column_skeleton_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\csx_coastrok4_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\darkwall_rock_mely.ydr</Item>
+    <Item>props-custom\props-dirty2\dark_rock_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\demon_skull_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\demon_statue_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\entrance_demon_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\flatrock2_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\fumo_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\gianchain_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\hell_chest_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\hell_column_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\hell_demonstatue_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\hell_gargoyle_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\hell_pillar_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\hell_terrain_thelab_model.ydr</Item>
+    <Item>props-custom\props-dirty2\lava_stairs_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\medieval_light_mely.ydr</Item>
+    <Item>props-custom\props-dirty2\portaprigione_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\rocklava_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\rustchain_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\satanic_throne_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\spike_chain_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\stalagmite_1_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\stalagmite_2_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\stalagmite_3_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\stalagmite_4_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\stonehouse_thelab.ydr</Item>
+    <Item>props-custom\props-dirty2\stone_bridge_thelab.ydr</Item>
+    <Item>props-custom\props-zoe\abandoned_ship_mely.ydr</Item>
+    <Item>props-custom\props-zoe\barrels_mely.ydr</Item>
+    <Item>props-custom\props-zoe\candle_2_mely.ydr</Item>
+    <Item>props-custom\props-zoe\ch1_12_coastrok_004_mely.ydr</Item>
+    <Item>props-custom\props-zoe\clark.ydr</Item>
+    <Item>props-custom\props-zoe\cs2_11_coastrock026_mely.ydr</Item>
+    <Item>props-custom\props-zoe\cs2_11_coastrock067_mely.ydr</Item>
+    <Item>props-custom\props-zoe\cs2_11_coastrock072_mely.ydr</Item>
+    <Item>props-custom\props-zoe\cs2_11_coastrock076_mely.ydr</Item>
+    <Item>props-custom\props-zoe\csx_coastbigroc03_mely.ydr</Item>
+    <Item>props-custom\props-zoe\csx_coastboulder_07_mely.ydr</Item>
+    <Item>props-custom\props-zoe\csx_coastrok1_mely.ydr</Item>
+    <Item>props-custom\props-zoe\csx_coastrok4_mely.ydr</Item>
+    <Item>props-custom\props-zoe\globe_mely.ydr</Item>
+    <Item>props-custom\props-zoe\gold_pile_mely.ydr</Item>
+    <Item>props-custom\props-zoe\human_skull_mely.ydr</Item>
+    <Item>props-custom\props-zoe\leather_chair_mely.ydr</Item>
+    <Item>props-custom\props-zoe\medievalbooks_mely.ydr</Item>
+    <Item>props-custom\props-zoe\medievalcarpet_mely.ydr</Item>
+    <Item>props-custom\props-zoe\medievalchest_mely.ydr</Item>
+    <Item>props-custom\props-zoe\medievaldoor2_new_mely.ydr</Item>
+    <Item>props-custom\props-zoe\medievalshelf_mely.ydr</Item>
+    <Item>props-custom\props-zoe\mely_table.ydr</Item>
+    <Item>props-custom\props-zoe\oil_lantern_mely.ydr</Item>
+    <Item>props-custom\props-zoe\oldmap_2_mely.ydr</Item>
+    <Item>props-custom\props-zoe\oldmap_mely.ydr</Item>
+    <Item>props-custom\props-zoe\oldwine_mely.ydr</Item>
+    <Item>props-custom\props-zoe\passeggiata_legno_double_mely.ydr</Item>
+    <Item>props-custom\props-zoe\passeggiata_legno_mely.ydr</Item>
+    <Item>props-custom\props-zoe\piratehat_1_mely.ydr</Item>
+    <Item>props-custom\props-zoe\piratehat_2_mely.ydr</Item>
+    <Item>props-custom\props-zoe\pirate_chair_mely.ydr</Item>
+    <Item>props-custom\props-zoe\pirate_desk_mely.ydr</Item>
+    <Item>props-custom\props-zoe\pirate_house_1_mely.ydr</Item>
+    <Item>props-custom\props-zoe\pirate_medallion_mely.ydr</Item>
+    <Item>props-custom\props-zoe\pirate_paper_mely.ydr</Item>
+    <Item>props-custom\props-zoe\pirate_pistol_mely.ydr</Item>
+    <Item>props-custom\props-zoe\pirate_telescope_mely.ydr</Item>
+    <Item>props-custom\props-zoe\rock_1_mely.ydr</Item>
+    <Item>props-custom\props-zoe\rock_2_mely.ydr</Item>
+    <Item>props-custom\props-zoe\sfera_luminosa.ydr</Item>
+    <Item>props-custom\props-zoe\singlestick_mely.ydr</Item>
+    <Item>props-custom\props-zoe\skeleton_1_mely.ydr</Item>
+    <Item>props-custom\props-zoe\skull_torch_mely.ydr</Item>
+    <Item>props-custom\props-zoe\tavernmug_mely.ydr</Item>
+    <Item>props-custom\props-zoe\tesoro_mesy.ydr</Item>
+    <Item>props-custom\props-zoe\wallshelf_mely.ydr</Item>
+    <Item>props-custom\props-zoe\wall_rock_mely.ydr</Item>
+    <Item>props-custom\props-zoe\woodenbed_mely.ydr</Item>
+    <Item>props-custom\props-zoe\woodenbench_mely.ydr</Item>
+    <Item>props-custom\props-zoe\woodenstairs_mely.ydr</Item>
+    <Item>props-custom\props-zoe\wooden_mely.ydr</Item>
+    <Item>props-custom\props-zoe\wooden_wardrobe_mely.ydr</Item>
   </YdrFilenames>
   <YddFilenames />
   <YftFilenames />
   <YtdFilenames>
-    <Item>props-dirty\universestore_mao_uni_01.ytd</Item>
+    <Item>props-custom\props matthew\sprunk_bzzz_dream_of_lights_st.ytd</Item>
+    <Item>props-custom\props matthew\sprunk_dk_mb_props_txd.ytd</Item>
+    <Item>props-custom\props matthew\sprunk_skeleton.ytd</Item>
+    <Item>props-custom\props matthew\sprunk_tombolo_texture.ytd</Item>
+    <Item>props-custom\props matthew\sprunk_vertexgroup_hw_props_txd.ytd</Item>
+    <Item>props-custom\props matthew\sprunk_vertexgroup_hw_skeletons.ytd</Item>
+    <Item>props-custom\props-dirty\universestore_mao_uni_01.ytd</Item>
   </YtdFilenames>
   <LockedYmapFilenames>
+    <Item>hellvillage_thelab.ymap</Item>
     <Item>ileprops.ymap</Item>
     <Item>smoke_thelab.ymap</Item>
+    <Item>sprunk_strangerthings.ymap</Item>
     <Item>universestore_vulcan_island.ymap</Item>
   </LockedYmapFilenames>
   <LockedYbnFilenames />
