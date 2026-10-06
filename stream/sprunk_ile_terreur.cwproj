@@ -8,6 +8,7 @@
     <Item>smoke_thelab.ymap</Item>
     <Item>sprunk_strangerthings.ymap</Item>
     <Item>universestore_vulcan_island.ymap</Item>
+    <Item>map1.ymap</Item>
   </YmapFilenames>
   <YtypFilenames>
     <Item>props-custom\props\sprunk_terror_island.ytyp</Item>
