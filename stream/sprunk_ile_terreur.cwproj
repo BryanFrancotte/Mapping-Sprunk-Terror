@@ -1,0 +1,131 @@
+<CodeWalkerProject>
+  <Name>New SprunkMapper Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hellvillage_thelab.ymap</Item>
+    <Item>ileprops.ymap</Item>
+    <Item>smoke_thelab.ymap</Item>
+    <Item>universestore_vulcan_island.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>props\sprunk_terror_island.ytyp</Item>
+    <Item>props-dirty\country_02_metadata_017_strm.ytyp</Item>
+    <Item>props-dirty\universestore_mao_uni_01.ytyp</Item>
+    <Item>props-dirty\universestore_mao_uni_01c.ytyp</Item>
+    <Item>props-dirty\universestore_newluz_west.ytyp</Item>
+    <Item>props-dirty\universestore_obj_vulcan_01.ytyp</Item>
+    <Item>props-dirty\universestore_ponte_g_01a.ytyp</Item>
+    <Item>props-dirty\universestore_vulcan_01a.ytyp</Item>
+    <Item>props-dirty\universestore_vulc_03a.ytyp</Item>
+    <Item>props-dirty2\demon_statue_thelab.ytyp</Item>
+    <Item>props-dirty2\fumo_thelab.ytyp</Item>
+    <Item>props-dirty2\hellvillage.ytyp</Item>
+    <Item>props-dirty2\hell_pillar_thelab.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>props-dirty2\hell_terrain_thelab_col.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>props\sprunk_terror_ilerock.ydr</Item>
+    <Item>props\sprunk_terror_pauvent.ydr</Item>
+    <Item>props\sprunk_terror_plaqueplage.ydr</Item>
+    <Item>props\sprunk_terror_pontplage.ydr</Item>
+    <Item>props\sprunk_terror_sand1.ydr</Item>
+    <Item>props-dirty\cs2_30_seaweed_long_m.ydr</Item>
+    <Item>props-dirty\universestore_mao_uni_01.ydr</Item>
+    <Item>props-dirty\universestore_mao_uni_01a.ydr</Item>
+    <Item>props-dirty\universestore_mao_uni_01b.ydr</Item>
+    <Item>props-dirty\universestore_mao_uni_01c.ydr</Item>
+    <Item>props-dirty\universestore_newluz_west.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_01.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_02.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_03.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_05.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_08.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_10.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_11.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_15.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_17.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_18.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_19.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_20.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_21.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_22.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_23.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_24.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_26.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_27.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_28.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_29.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_30.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_31.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_32.ydr</Item>
+    <Item>props-dirty\universestore_obj_vulcan_33.ydr</Item>
+    <Item>props-dirty\universestore_terreno_a_01aa.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01a.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01b.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01c.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01d.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01e.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01f.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01g.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01h.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01i.ydr</Item>
+    <Item>props-dirty\universestore_vulc_01j.ydr</Item>
+    <Item>props-dirty\universestore_vulc_02a.ydr</Item>
+    <Item>props-dirty\universestore_vulc_02b.ydr</Item>
+    <Item>props-dirty\universestore_vulc_02c.ydr</Item>
+    <Item>props-dirty\universestore_vulc_02d.ydr</Item>
+    <Item>props-dirty\universestore_vulc_02e.ydr</Item>
+    <Item>props-dirty\universestore_vulc_02f.ydr</Item>
+    <Item>props-dirty\universestore_vulc_03a.ydr</Item>
+    <Item>props-dirty2\bones_thelab.ydr</Item>
+    <Item>props-dirty2\campfire_mely.ydr</Item>
+    <Item>props-dirty2\cellaprigione_thelab.ydr</Item>
+    <Item>props-dirty2\column_skeleton_thelab.ydr</Item>
+    <Item>props-dirty2\csx_coastrok4_thelab.ydr</Item>
+    <Item>props-dirty2\darkwall_rock_mely.ydr</Item>
+    <Item>props-dirty2\dark_rock_thelab.ydr</Item>
+    <Item>props-dirty2\demon_skull_thelab.ydr</Item>
+    <Item>props-dirty2\demon_statue_thelab.ydr</Item>
+    <Item>props-dirty2\entrance_demon_thelab.ydr</Item>
+    <Item>props-dirty2\flatrock2_thelab.ydr</Item>
+    <Item>props-dirty2\fumo_thelab.ydr</Item>
+    <Item>props-dirty2\gianchain_thelab.ydr</Item>
+    <Item>props-dirty2\hell_chest_thelab.ydr</Item>
+    <Item>props-dirty2\hell_column_thelab.ydr</Item>
+    <Item>props-dirty2\hell_demonstatue_thelab.ydr</Item>
+    <Item>props-dirty2\hell_gargoyle_thelab.ydr</Item>
+    <Item>props-dirty2\hell_pillar_thelab.ydr</Item>
+    <Item>props-dirty2\hell_terrain_thelab_model.ydr</Item>
+    <Item>props-dirty2\lava_stairs_thelab.ydr</Item>
+    <Item>props-dirty2\medieval_light_mely.ydr</Item>
+    <Item>props-dirty2\portaprigione_thelab.ydr</Item>
+    <Item>props-dirty2\rocklava_thelab.ydr</Item>
+    <Item>props-dirty2\rustchain_thelab.ydr</Item>
+    <Item>props-dirty2\satanic_throne_thelab.ydr</Item>
+    <Item>props-dirty2\spike_chain_thelab.ydr</Item>
+    <Item>props-dirty2\stalagmite_1_thelab.ydr</Item>
+    <Item>props-dirty2\stalagmite_2_thelab.ydr</Item>
+    <Item>props-dirty2\stalagmite_3_thelab.ydr</Item>
+    <Item>props-dirty2\stalagmite_4_thelab.ydr</Item>
+    <Item>props-dirty2\stonehouse_thelab.ydr</Item>
+    <Item>props-dirty2\stone_bridge_thelab.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>props-dirty\universestore_mao_uni_01.ytd</Item>
+  </YtdFilenames>
+  <LockedYmapFilenames>
+    <Item>ileprops.ymap</Item>
+    <Item>smoke_thelab.ymap</Item>
+    <Item>universestore_vulcan_island.ymap</Item>
+  </LockedYmapFilenames>
+  <LockedYbnFilenames />
+</CodeWalkerProject>
