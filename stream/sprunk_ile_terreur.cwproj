@@ -13,6 +13,7 @@
     <Item>sub_pirate_ship_mlo_02_plc_1a.ymap</Item>
     <Item>sub_pirate_ship_plc_1a.ymap</Item>
     <Item>universestore_vulcan_island.ymap</Item>
+    <Item>..\..\..\..\bureau\sprunk_joe.ymap</Item>
   </YmapFilenames>
   <YtypFilenames>
     <Item>props-custom\props\sprunk_terror_island.ytyp</Item>
