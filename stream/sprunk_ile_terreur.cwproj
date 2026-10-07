@@ -37,6 +37,7 @@
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_mlo_01_1a.ytyp</Item>
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_mlo_02_1a.ytyp</Item>
     <Item>props-custom\props-moon-pirate\sub_plant_vegetation_1a.ytyp</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_types.ytyp</Item>
     <Item>props-custom\props-zoe\medievaldoor2_new_mely.ytyp</Item>
     <Item>props-custom\props-zoe\piratebay_thelab.ytyp</Item>
     <Item>props-custom\props-zoe\sfera_luminosa.ytyp</Item>
@@ -283,6 +284,13 @@
     <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_chest_04.ydr</Item>
     <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_gold_pot_01.ydr</Item>
     <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_gold_pot_02.ydr</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_big_spider_wall.ydr</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_circus.ydr</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_clown_2.ydr</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_halloween_old_tv.ydr</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_halloween_table_sang.ydr</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_sorcière_chaudron.ydr</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_circus_1.ydr</Item>
     <Item>props-custom\props-zoe\abandoned_ship_mely.ydr</Item>
     <Item>props-custom\props-zoe\barrels_mely.ydr</Item>
     <Item>props-custom\props-zoe\candle_2_mely.ydr</Item>
@@ -381,6 +389,8 @@
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_txd.ytd</Item>
     <Item>props-custom\props-moon-pirate\sub_props_pirate_txd.ytd</Item>
     <Item>props-custom\props-moon-pirate\sub_vegetation_txd.ytd</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_circus_txd.ytd</Item>
+    <Item>props-custom\props-pitch\sprunk_p_circus_txd.ytd</Item>
     <Item>props-custom\props_anime\animated_props.ytd</Item>
     <Item>props-custom\props_joe\sprunk_maze_hands_txd.ytd</Item>
     <Item>props-custom\props_joe\sprunk_maze_monster_txd.ytd</Item>
