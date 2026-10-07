@@ -1,7 +1,32 @@
+# Default: let git detect text vs binary
+* text=auto
+
+# Map placement / archetype files: binary, can't be merged.
+# "lockable" = checked out read-only until you `git lfs lock` the file,
+# so CodeWalker can't silently re-save files you aren't working on.
+*.ymap filter=lfs diff=lfs merge=lfs -text lockable
+*.ytyp filter=lfs diff=lfs merge=lfs -text lockable
+
+# Models, collisions, textures, anims, manifests (binary)
 *.ydr filter=lfs diff=lfs merge=lfs -text
-*.ybn filter=lfs diff=lfs merge=lfs -text
-*.ytd filter=lfs diff=lfs merge=lfs -text
 *.ydd filter=lfs diff=lfs merge=lfs -text
 *.yft filter=lfs diff=lfs merge=lfs -text
+*.ybn filter=lfs diff=lfs merge=lfs -text
+*.ytd filter=lfs diff=lfs merge=lfs -text
+*.ycd filter=lfs diff=lfs merge=lfs -text
+*.ymf filter=lfs diff=lfs merge=lfs -text
+*.ymt filter=lfs diff=lfs merge=lfs -text
+*.ynv filter=lfs diff=lfs merge=lfs -text
+*.ynd filter=lfs diff=lfs merge=lfs -text
+*.rpf filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.dds filter=lfs diff=lfs merge=lfs -text
+
+# CodeWalker project: XML list of files. Union merge keeps both sides' lines
+# instead of conflicting when two people add files to the project.
+*.cwproj text eol=crlf merge=union
+
+# Scripts / config
+*.lua  text eol=lf
+*.meta text
+*.xml  text
