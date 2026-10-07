@@ -7,9 +7,12 @@
     <Item>piratebay_thelab.ymap</Item>
     <Item>smoke_thelab.ymap</Item>
     <Item>sprunk_ile_terreur_décopiratezoe.ymap</Item>
+    <Item>sprunk_joe.ymap</Item>
     <Item>sprunk_strangerthings.ymap</Item>
+    <Item>sub_pirate_ship_mlo_01_plc_1a.ymap</Item>
+    <Item>sub_pirate_ship_mlo_02_plc_1a.ymap</Item>
+    <Item>sub_pirate_ship_plc_1a.ymap</Item>
     <Item>universestore_vulcan_island.ymap</Item>
-    <Item>map1.ymap</Item>
   </YmapFilenames>
   <YtypFilenames>
     <Item>props-custom\props\sprunk_terror_island.ytyp</Item>
@@ -27,6 +30,11 @@
     <Item>props-custom\props-dirty2\fumo_thelab.ytyp</Item>
     <Item>props-custom\props-dirty2\hellvillage.ytyp</Item>
     <Item>props-custom\props-dirty2\hell_pillar_thelab.ytyp</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_props_1a.ytyp</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_1a.ytyp</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_mlo_01_1a.ytyp</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_mlo_02_1a.ytyp</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_vegetation_1a.ytyp</Item>
     <Item>props-custom\props-zoe\medievaldoor2_new_mely.ytyp</Item>
     <Item>props-custom\props-zoe\piratebay_thelab.ytyp</Item>
     <Item>props-custom\props-zoe\sfera_luminosa.ytyp</Item>
@@ -40,6 +48,8 @@
   </YtypFilenames>
   <YbnFilenames>
     <Item>props-custom\props-dirty2\hell_terrain_thelab_col.ybn</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_shell_01_col.ybn</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_shell_02_col.ybn</Item>
   </YbnFilenames>
   <YndFilenames />
   <YnvFilenames />
@@ -194,6 +204,56 @@
     <Item>props-custom\props-dirty2\stalagmite_4_thelab.ydr</Item>
     <Item>props-custom\props-dirty2\stonehouse_thelab.ydr</Item>
     <Item>props-custom\props-dirty2\stone_bridge_thelab.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_basic.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_decals.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_details.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_lights_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_lights_02.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_lookout.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_armchair_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_bed_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_book_shelf_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_curtains_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_deskchair_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_desk_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_globe_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_ladder_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_ladder_01_extended.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_ladder_02.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_net_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_rug_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_old_table_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_pole.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_sails_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_shell_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_shell_02.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_02.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_03.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_04.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_05.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_06.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_07.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_08.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_09.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_plant_water_10.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_cage_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_cage_02.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_cannon.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_globe.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_gun_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_skeleton_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_skeleton_02.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_skeleton_03.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_skeleton_04.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_skeleton_05.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_sword_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_chest_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_chest_02.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_chest_03.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_chest_04.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_gold_pot_01.ydr</Item>
+    <Item>props-custom\props-moon-pirate\sub_prop_pirate_treasure_gold_pot_02.ydr</Item>
     <Item>props-custom\props-zoe\abandoned_ship_mely.ydr</Item>
     <Item>props-custom\props-zoe\barrels_mely.ydr</Item>
     <Item>props-custom\props-zoe\candle_2_mely.ydr</Item>
@@ -279,6 +339,9 @@
     <Item>props-custom\props matthew\sprunk_vertexgroup_hw_props_txd.ytd</Item>
     <Item>props-custom\props matthew\sprunk_vertexgroup_hw_skeletons.ytd</Item>
     <Item>props-custom\props-dirty\universestore_mao_uni_01.ytd</Item>
+    <Item>props-custom\props-moon-pirate\sub_pirate_ship_txd.ytd</Item>
+    <Item>props-custom\props-moon-pirate\sub_props_pirate_txd.ytd</Item>
+    <Item>props-custom\props-moon-pirate\sub_vegetation_txd.ytd</Item>
     <Item>props-custom\props_anime\animated_props.ytd</Item>
   </YtdFilenames>
   <LockedYmapFilenames />
