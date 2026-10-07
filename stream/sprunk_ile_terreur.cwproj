@@ -8,6 +8,10 @@
     <Item>smoke_thelab.ymap</Item>
     <Item>sprunk_ile_terreur_décopiratezoe.ymap</Item>
     <Item>sprunk_joe.ymap</Item>
+<<<<<<< HEAD
+=======
+    <Item>sprunk_pitch_map1.ymap</Item>
+>>>>>>> e67d8a3db2c1c03590746f2273945ca097912434
     <Item>sprunk_strangerthings.ymap</Item>
     <Item>sub_pirate_ship_mlo_01_plc_1a.ymap</Item>
     <Item>sub_pirate_ship_mlo_02_plc_1a.ymap</Item>
@@ -45,6 +49,7 @@
     <Item>props-custom\props-zoe\ytyp-a-regarder\sfera_luminosa.ytyp</Item>
     <Item>props-custom\props-zoe\ytyp-a-regarder\skull_torch_mely.ytyp</Item>
     <Item>props-custom\props_anime\ff.ytyp</Item>
+    <Item>props-custom\props_joe\sprunk_maze.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames>
     <Item>props-custom\props-dirty2\hell_terrain_thelab_col.ybn</Item>
@@ -328,6 +333,7 @@
     <Item>props-custom\props_anime\animated_subnigurath.ydr</Item>
     <Item>props-custom\props_anime\animated_zourlas.ydr</Item>
     <Item>props-custom\props_anime\animated_zsphere.ydr</Item>
+    <Item>props-custom\props_joe\sprunk_maze.ydr</Item>
   </YdrFilenames>
   <YddFilenames />
   <YftFilenames />
@@ -343,7 +349,16 @@
     <Item>props-custom\props-moon-pirate\sub_props_pirate_txd.ytd</Item>
     <Item>props-custom\props-moon-pirate\sub_vegetation_txd.ytd</Item>
     <Item>props-custom\props_anime\animated_props.ytd</Item>
+    <Item>props-custom\props_joe\sprunk_maze_txd.ytd</Item>
   </YtdFilenames>
-  <LockedYmapFilenames />
+  <LockedYmapFilenames>
+    <Item>hellvillage_thelab.ymap</Item>
+    <Item>ileprops.ymap</Item>
+    <Item>smoke_thelab.ymap</Item>
+    <Item>sprunk_joe.ymap</Item>
+    <Item>sprunk_pitch_map1.ymap</Item>
+    <Item>sprunk_strangerthings.ymap</Item>
+    <Item>universestore_vulcan_island.ymap</Item>
+  </LockedYmapFilenames>
   <LockedYbnFilenames />
 </CodeWalkerProject>
