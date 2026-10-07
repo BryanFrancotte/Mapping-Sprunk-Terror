@@ -39,8 +39,6 @@
     <Item>props-custom\props-zoe\ytyp-a-regarder\skull_torch_mely.ytyp</Item>
     <Item>props-custom\props_anime\ff.ytyp</Item>
     <Item>props-custom\props_joe\sprunk_maze.ytyp</Item>
-    <Item>props-custom\props_joe\sprunk_maze_hands.ytyp</Item>
-    <Item>props-custom\props_joe\sprunk_maze_monster.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames>
     <Item>props-custom\props-dirty2\hell_terrain_thelab_col.ybn</Item>
@@ -273,8 +271,6 @@
     <Item>props-custom\props_anime\animated_zourlas.ydr</Item>
     <Item>props-custom\props_anime\animated_zsphere.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze.ydr</Item>
-    <Item>props-custom\props_joe\sprunk_maze_hands.ydr</Item>
-    <Item>props-custom\props_joe\sprunk_maze_monster.ydr</Item>
   </YdrFilenames>
   <YddFilenames />
   <YftFilenames />
@@ -287,10 +283,16 @@
     <Item>props-custom\props matthew\sprunk_vertexgroup_hw_skeletons.ytd</Item>
     <Item>props-custom\props-dirty\universestore_mao_uni_01.ytd</Item>
     <Item>props-custom\props_anime\animated_props.ytd</Item>
-    <Item>props-custom\props_joe\sprunk_maze_hands_txd.ytd</Item>
-    <Item>props-custom\props_joe\sprunk_maze_monster_txd.ytd</Item>
     <Item>props-custom\props_joe\sprunk_maze_txd.ytd</Item>
   </YtdFilenames>
-  <LockedYmapFilenames />
+  <LockedYmapFilenames>
+    <Item>hellvillage_thelab.ymap</Item>
+    <Item>ileprops.ymap</Item>
+    <Item>smoke_thelab.ymap</Item>
+    <Item>sprunk_joe.ymap</Item>
+    <Item>sprunk_pitch_map1.ymap</Item>
+    <Item>sprunk_strangerthings.ymap</Item>
+    <Item>universestore_vulcan_island.ymap</Item>
+  </LockedYmapFilenames>
   <LockedYbnFilenames />
 </CodeWalkerProject>
