@@ -52,6 +52,7 @@
     <Item>props-custom\props_joe\sprunk_maze_hands.ytyp</Item>
     <Item>props-custom\props_joe\sprunk_maze_monster.ytyp</Item>
     <Item>props-custom\props_light\sprunk_halloween_lights.ytyp</Item>
+    <Item>props-custom\props_joe\sprunk_maze_tree.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames>
     <Item>props-custom\props-dirty2\hell_terrain_thelab_col.ybn</Item>
@@ -374,6 +375,10 @@
     <Item>props-custom\props_anime\animated_subnigurath.ydr</Item>
     <Item>props-custom\props_anime\animated_zourlas.ydr</Item>
     <Item>props-custom\props_anime\animated_zsphere.ydr</Item>
+    <Item>props-custom\props_joe\sprunk_tree_maze_06.ydr</Item>
+    <Item>props-custom\props_joe\sprunk_maze_lficus_05.ydr</Item>
+    <Item>props-custom\props_joe\sprunk_maze_lficus_06.ydr</Item>
+    <Item>props-custom\props_joe\sprunk_tree_maze_01.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze_hands.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze_monster.ydr</Item>
@@ -385,7 +390,9 @@
     <Item>props-custom\props_light\sprunk_terror_light2_sprunk.ydr</Item>
   </YdrFilenames>
   <YddFilenames />
-  <YftFilenames />
+  <YftFilenames>
+    <Item>props-custom\props_joe\prop_streetlight_03.yft</Item>
+  </YftFilenames>
   <YtdFilenames>
     <Item>props-custom\props matthew\halloween_txd.ytd</Item>
     <Item>props-custom\props matthew\sprunk_bzzz_dream_of_lights_st.ytd</Item>
