@@ -61,9 +61,9 @@
     <Item>props-custom\props_joe\sprunk_maze_tree.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames>
+    <Item>props-custom\props-dirty2\hell_terrain_thelab_col.ybn</Item>
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_shell_01_col.ybn</Item>
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_shell_02_col.ybn</Item>
-    <Item>props-custom\props-dirty2\hell_terrain_thelab_col.ybn</Item>
   </YbnFilenames>
   <YndFilenames />
   <YnvFilenames />
@@ -435,7 +435,6 @@
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_txd.ytd</Item>
     <Item>props-custom\props-moon-pirate\sub_props_pirate_txd.ytd</Item>
     <Item>props-custom\props-moon-pirate\sub_vegetation_txd.ytd</Item>
-    <Item>props-custom\props-pitch\sprunk_pitch_circus_1_txd.ytd</Item>
     <Item>props-custom\props-pitch\sprunk_pitch_circus_txd.ytd</Item>
     <Item>props-custom\props-pitch\sprunk_p_circus_txd.ytd</Item>
     <Item>props-custom\props_joe\k382_jack_lantern_txd.ytd</Item>
