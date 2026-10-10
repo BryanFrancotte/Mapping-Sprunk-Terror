@@ -37,6 +37,7 @@
     <Item>props-custom\props-dirty2\hell_pillar_thelab.ytyp</Item>
     <Item>props-custom\props-light\sprunk_halloween_lights.ytyp</Item>
     <Item>props-custom\props-matthew\sprunk_big_lune_creepy.ytyp</Item>
+    <Item>props-custom\props-matthew\sprunk_escalier_pierre.ytyp</Item>
     <Item>props-custom\props-matthew\sprunk_strangerthings.ytyp</Item>
     <Item>props-custom\props-moon-pirate\sub_pirate_props_1a.ytyp</Item>
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_1a.ytyp</Item>
@@ -200,7 +201,9 @@
     <Item>props-custom\props-matthew\sprunk_arbre_mort_skeleton4.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_arbre_mort_skeleton5.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_arbre_mort_skeleton6.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_arbre_oeuf_spider.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_arbre_tronc.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_banc_skeleton.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_bench_09.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_big_lune_creepy.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_body_fly_legion_01.ydr</Item>
@@ -213,30 +216,43 @@
     <Item>props-custom\props-matthew\sprunk_cercueil1.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_cercueil2.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_cercueil3.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_cercueil_batman.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_cercueil_death.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_chand_green.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_chand_orange.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_chand_purple.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_chien_des_enfers.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_citrouille_tueur.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_corps_en_toile.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_corps_mutilé_accroché.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_creepyhead.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_creepy_girl.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_cryptg.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_escalier_pierre.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_firepillar.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_groupe_de_main.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_grp_pumpkin.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_halloween_arbre.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_halloween_pumpkin_pied.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_lapin_banc_sang.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_legion_halloween_scarecrow01.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_legion_halloween_skel_hand.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_legion_halloween_spider_00.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_lights_orange.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_lights_pumpkin001.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_lights_purple_st.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_maison_détruite_hanté.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_mannequin_grp.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_medieval_light_mely.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_palmier_skull_head.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_piege_rond_skeleton.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_piege_support.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_pumpkin.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_pumpkin2.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_pumpkin3.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_pumpkin4.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_pumpkin_spider.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_racine_01.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_racine_02.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_racine_solo.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_racine_solo02.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_racine_solo03.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_skeleton_01.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_skeleton_02.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_skeleton_03.ydr</Item>
@@ -245,7 +261,12 @@
     <Item>props-custom\props-matthew\sprunk_skeleton_09.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_skeleton_10.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_skeleton_11.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_skeleton_geant.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_skullstatue.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_spider_geant.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_spooky_village.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_toile_arreigne_1m.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_toile_arreigne_2m.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_toile_d'araigner_01.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_toile_d'araigner_02.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_toile_d'araigner_03.ydr</Item>
@@ -268,9 +289,12 @@
     <Item>props-custom\props-matthew\sprunk_tombolo_manequin12.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_tombolo_zombie02.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_tombolo_zombie_accroche.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_tombstone_bougie.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_tombstone_pumpkin01.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_tomb_pilier.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_tête_coupé.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_vampichurch.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_zombie_hand.ydr</Item>
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_basic.ydr</Item>
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_decals.ydr</Item>
     <Item>props-custom\props-moon-pirate\sub_pirate_ship_details.ydr</Item>
@@ -425,9 +449,11 @@
     <Item>props-custom\props-anime\sprunk_terror_animated_props.ytd</Item>
     <Item>props-custom\props-anime\sprunk_terror_jack_lantern_txd.ytd</Item>
     <Item>props-custom\props-dirty\universestore_mao_uni_01.ytd</Item>
-    <Item>props-custom\props-matthew\halloween_txd.ytd</Item>
     <Item>props-custom\props-matthew\sprunk_bzzz_dream_of_lights_st.ytd</Item>
     <Item>props-custom\props-matthew\sprunk_dk_mb_props_txd.ytd</Item>
+    <Item>props-custom\props-matthew\sprunk_escalier_pierre_txd.ytd</Item>
+    <Item>props-custom\props-matthew\sprunk_halloween_txd.ytd</Item>
+    <Item>props-custom\props-matthew\sprunk_k382_skels_txt.ytd</Item>
     <Item>props-custom\props-matthew\sprunk_skeleton.ytd</Item>
     <Item>props-custom\props-matthew\sprunk_tombolo_texture.ytd</Item>
     <Item>props-custom\props-matthew\sprunk_vertexgroup_hw_props_txd.ytd</Item>
