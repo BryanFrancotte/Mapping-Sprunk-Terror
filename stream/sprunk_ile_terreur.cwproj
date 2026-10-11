@@ -443,6 +443,9 @@
     <Item>props-custom\props-zoe\woodenstairs_mely.ydr</Item>
     <Item>props-custom\props-zoe\wooden_mely.ydr</Item>
     <Item>props-custom\props-zoe\wooden_wardrobe_mely.ydr</Item>
+    <Item>props-custom\props_joe\k382_scarymaze_sing.ydr</Item>
+    <Item>props-custom\props_joe\richards_victorian_hauntedhouse_party.ydr</Item>
+    <Item>props-custom\props_joe\sprunk_big_spider_wall.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze_hands.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze_lficus_05.ydr</Item>
@@ -450,6 +453,7 @@
     <Item>props-custom\props_joe\sprunk_maze_monster.ydr</Item>
     <Item>props-custom\props_joe\sprunk_tree_maze_01.ydr</Item>
     <Item>props-custom\props_joe\sprunk_tree_maze_06.ydr</Item>
+    <Item>props-custom\props_joe\sprunk_zombie01.ydr</Item>
   </YdrFilenames>
   <YddFilenames />
   <YftFilenames />
