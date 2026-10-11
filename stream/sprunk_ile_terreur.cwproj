@@ -9,6 +9,7 @@
     <Item>sprunk_ile_terreur_décopiratezoe.ymap</Item>
     <Item>sprunk_joe.ymap</Item>
     <Item>sprunk_matthew_anime_props.ymap</Item>
+    <Item>sprunk_maze_animated.ymap</Item>
     <Item>sprunk_pitch2_map.ymap</Item>
     <Item>sprunk_pitch_map.ymap</Item>
     <Item>sprunk_rollo.ymap</Item>
@@ -65,10 +66,11 @@
     <Item>props-custom\props-zoe\ytyp-a-regarder\sfera_luminosa.ytyp</Item>
     <Item>props-custom\props-zoe\ytyp-a-regarder\skull_torch_mely.ytyp</Item>
     <Item>props-custom\props_joe\sprunk_maze.ytyp</Item>
+    <Item>props-custom\props_joe\sprunk_maze_animated.ytyp</Item>
     <Item>props-custom\props_joe\sprunk_maze_hands.ytyp</Item>
     <Item>props-custom\props_joe\sprunk_maze_monster.ytyp</Item>
     <Item>props-custom\props_joe\sprunk_maze_tree.ytyp</Item>
-    <Item>props-custom\props_joe\sprunk_maze_animated.ytyp</Item>
+    <Item>props-custom\props_joe\sprunk_ruined_house.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames>
     <Item>props-custom\props-dirty2\hell_terrain_thelab_col.ybn</Item>
@@ -452,6 +454,7 @@
     <Item>props-custom\props_joe\sprunk_maze_lficus_05.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze_lficus_06.ydr</Item>
     <Item>props-custom\props_joe\sprunk_maze_monster.ydr</Item>
+    <Item>props-custom\props_joe\sprunk_ruined_house.ydr</Item>
     <Item>props-custom\props_joe\sprunk_tree_maze_01.ydr</Item>
     <Item>props-custom\props_joe\sprunk_tree_maze_06.ydr</Item>
     <Item>props-custom\props_joe\sprunk_zombie01.ydr</Item>
@@ -481,6 +484,7 @@
     <Item>props-custom\props_joe\sprunk_maze_horror_txd.ytd</Item>
     <Item>props-custom\props_joe\sprunk_maze_monster_txd.ytd</Item>
     <Item>props-custom\props_joe\sprunk_maze_txd.ytd</Item>
+    <Item>props-custom\props_joe\sprunk_ruined_house_txd.ytd</Item>
   </YtdFilenames>
   <LockedYmapFilenames />
   <LockedYbnFilenames />
