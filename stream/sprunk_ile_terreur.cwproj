@@ -213,8 +213,8 @@
     <Item>props-custom\props-matthew\sprunk_body_fly_legion_01.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_body_fly_legion_02.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_bones.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_bones_crane0.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_bones_crane1.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_bones_crâne0.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_bones_crâne1.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_cemitery1.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_cercueil.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_cercueil1.ydr</Item>
@@ -224,7 +224,7 @@
     <Item>props-custom\props-matthew\sprunk_chien_des_enfers.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_citrouille_tueur.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_corps_en_toile.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_corps_mutile_accroche.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_corps_mutilé_accroché.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_creepyhead.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_creepy_girl.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_cryptg.ydr</Item>
@@ -241,7 +241,7 @@
     <Item>props-custom\props-matthew\sprunk_lights_orange.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_lights_pumpkin001.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_lights_purple_st.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_maison_detruite_hante.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_maison_détruite_hanté.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_mannequin_grp.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_medieval_light_mely.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_palmier_skull_head.ydr</Item>
@@ -269,7 +269,6 @@
     <Item>props-custom\props-matthew\sprunk_skullstatue.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_spider_geant.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_spooky_village.ydr</Item>
-    <Item>props-custom\props-matthew\sprunk_tete_coupe.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_toile_arreigne_1m.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_toile_arreigne_2m.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_toile_d'araigner_01.ydr</Item>
@@ -297,6 +296,7 @@
     <Item>props-custom\props-matthew\sprunk_tombstone_bougie.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_tombstone_pumpkin01.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_tomb_pilier.ydr</Item>
+    <Item>props-custom\props-matthew\sprunk_tête_coupé.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_vampichurch.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_zombie_hand.ydr</Item>
     <Item>props-custom\props-moon\sprunk_terror_entrance.ydr</Item>
@@ -363,7 +363,7 @@
     <Item>props-custom\props-pitch\sprunk_pitch_jack_lantern.ydr</Item>
     <Item>props-custom\props-pitch\sprunk_pitch_nosequienes.ydr</Item>
     <Item>props-custom\props-pitch\sprunk_pitch_skel001.ydr</Item>
-    <Item>props-custom\props-pitch\sprunk_pitch_sorciere_chaudron.ydr</Item>
+    <Item>props-custom\props-pitch\sprunk_pitch_sorcière_chaudron.ydr</Item>
     <Item>props-custom\props-pitch\sprunk_pitch_spooky.ydr</Item>
     <Item>props-custom\props-pitch\sprunk_pitch_walllightsource.ydr</Item>
     <Item>props-custom\props-terror-sign\sprunk_terror_cirque_left.ydr</Item>
@@ -469,6 +469,7 @@
     <Item>props-custom\props-pitch\sprunk_p_circus_txd.ytd</Item>
     <Item>props-custom\props_joe\k382_jack_lantern_txd.ytd</Item>
     <Item>props-custom\props_joe\sprunk_maze_hands_txd.ytd</Item>
+    <Item>props-custom\props_joe\sprunk_maze_horror_txd.ytd</Item>
     <Item>props-custom\props_joe\sprunk_maze_monster_txd.ytd</Item>
     <Item>props-custom\props_joe\sprunk_maze_txd.ytd</Item>
   </YtdFilenames>
