@@ -12,15 +12,22 @@
     <Item>sprunk_maze_animated.ymap</Item>
     <Item>sprunk_pitch2_map.ymap</Item>
     <Item>sprunk_pitch_map.ymap</Item>
+    <Item>sprunk_pont_hellvillage.ymap</Item>
     <Item>sprunk_propsanimzoe.ymap</Item>
     <Item>sprunk_rollo.ymap</Item>
     <Item>sprunk_stand_blazing_tattoo.ymap</Item>
+    <Item>sprunk_stand_heat_hats.ymap</Item>
     <Item>sprunk_stand_jbk.ymap</Item>
     <Item>sprunk_stand_leopold.ymap</Item>
+    <Item>sprunk_stand_lsmc.ymap</Item>
     <Item>sprunk_stand_partenaire.ymap</Item>
+    <Item>sprunk_stand_punk_noodle.ymap</Item>
+    <Item>sprunk_stand_sprunk.ymap</Item>
     <Item>sprunk_stand_suburban.ymap</Item>
+    <Item>sprunk_stand_yellow_jack.ymap</Item>
     <Item>sprunk_strangerthings.ymap</Item>
     <Item>sprunk_terror_bridge.ymap</Item>
+    <Item>sprunk_terror_bridge_deco.ymap</Item>
     <Item>sprunk_terror_welcom_island_animated_props.ymap</Item>
     <Item>sprunk_welcome_island.ymap</Item>
     <Item>sprunk_welcome_island_part_2.ymap</Item>
@@ -40,8 +47,11 @@
     <Item>props-custom\props-anime\sprunk_terror_jack_lantern.ytyp</Item>
     <Item>props-custom\props-anime\sprunk_terror_scalet_diffindo_prop.ytyp</Item>
     <Item>props-custom\props-cloth-shop\67_beetlejuice_67.ytyp</Item>
+    <Item>props-custom\props-cloth-shop\sprunk_shark_beetlejuice.ytyp</Item>
+    <Item>props-custom\props-cloth-shop\sprunk_terror_bed.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_beetlejuice.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_big_stand.ytyp</Item>
+    <Item>props-custom\props-cloth-shop\sprunk_terror_curtains.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_locker.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_purge_1.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_purge_2.ytyp</Item>
@@ -77,6 +87,7 @@
     <Item>props-custom\props-zoe\piratebay_thelab.ytyp</Item>
     <Item>props-custom\props-zoe\sfera_luminosa.ytyp</Item>
     <Item>props-custom\props-zoe\skull_torch_mely.ytyp</Item>
+    <Item>props-custom\props-zoe\sprunkterror_planchezozo.ytyp</Item>
     <Item>props-custom\props-zoe\sprunk_props_zozo.ytyp</Item>
     <Item>props-custom\props-zoe\sprunk_terror_barrels.ytyp</Item>
     <Item>props-custom\props-zoe\sprunk_terror_broken_ship.ytyp</Item>
@@ -136,8 +147,11 @@
     <Item>props-custom\props-anime\sprunk_terror_jack_lantern.ydr</Item>
     <Item>props-custom\props-anime\sprunk_terror_scalet_diffindo_prop.ydr</Item>
     <Item>props-custom\props-cloth-shop\67_beetlejuice_67.ydr</Item>
+    <Item>props-custom\props-cloth-shop\sprunk_shark_beetlejuice.ydr</Item>
+    <Item>props-custom\props-cloth-shop\sprunk_terror_bed.ydr</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_beetlejuice.ydr</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_big_stand.ydr</Item>
+    <Item>props-custom\props-cloth-shop\sprunk_terror_curtains.ydr</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_locker.ydr</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_purge_1.ydr</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_purge_2.ydr</Item>
@@ -243,6 +257,7 @@
     <Item>props-custom\props-logo-partenaire\sprunk_terror_flags_halloween.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_animal_ark.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_auto_cowboys.ydr</Item>
+    <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_bay_area_customs.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_bin_cowboy.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_blazing_tattoo.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_g6.ydr</Item>
@@ -254,7 +269,9 @@
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_lsmc.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_punk_noodles_head.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_sprunk.ydr</Item>
+    <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_sprunk_big.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_suburban.ydr</Item>
+    <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_yellow_jack.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_arbre_champi_bleu.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_arbre_champi_rouge.ydr</Item>
     <Item>props-custom\props-matthew\sprunk_arbre_mort.ydr</Item>
@@ -444,6 +461,16 @@
     <Item>props-custom\props-terror-sign\sprunk_terror_village_left.ydr</Item>
     <Item>props-custom\props-terror-sign\sprunk_terror_village_right.ydr</Item>
     <Item>props-custom\props-terror-sign\sprunk_terror_village_up.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_joe_niglo.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_joe_niglo2.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_mattew_totem.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_mattew_totem2.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_moonmoon_nocol.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_moonmoon_nocol2.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_pitch.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_pitch2.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_rollo.ydr</Item>
+    <Item>props-custom\props-totem\sprunk_terror_rollo2.ydr</Item>
     <Item>props-custom\props-zoe\abandoned_ship_mely.ydr</Item>
     <Item>props-custom\props-zoe\barrels_mely.ydr</Item>
     <Item>props-custom\props-zoe\candle_2_mely.ydr</Item>
@@ -489,6 +516,7 @@
     <Item>props-custom\props-zoe\singlestick_mely.ydr</Item>
     <Item>props-custom\props-zoe\skeleton_1_mely.ydr</Item>
     <Item>props-custom\props-zoe\skull_torch_mely.ydr</Item>
+    <Item>props-custom\props-zoe\sprunkterror_planchezozo.ydr</Item>
     <Item>props-custom\props-zoe\sprunk_terror_archezozopiratecourse.ydr</Item>
     <Item>props-custom\props-zoe\sprunk_terror_barrels.ydr</Item>
     <Item>props-custom\props-zoe\sprunk_terror_broken_ship.ydr</Item>
@@ -525,6 +553,7 @@
     <Item>props-custom\props-anime\sprunk_terror_chest_txd.ytd</Item>
     <Item>props-custom\props-anime\sprunk_terror_jack_lantern_txd.ytd</Item>
     <Item>props-custom\props-cloth-shop\67_beetlejuice_67_txd.ytd</Item>
+    <Item>props-custom\props-cloth-shop\sprunk_shark_beetlejuice_txd.ytd</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_beetlejuice_txd.ytd</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_locker_txd.ytd</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_purge_1_txd.ytd</Item>
@@ -547,6 +576,7 @@
     <Item>props-custom\props-moon-pirate\sub_vegetation_txd.ytd</Item>
     <Item>props-custom\props-pitch\sprunk_pitch_circus_txd.ytd</Item>
     <Item>props-custom\props-pitch\sprunk_p_circus_txd.ytd</Item>
+    <Item>props-custom\props-zoe\sprunkterror_planchezozo_txd.ytd</Item>
     <Item>props-custom\props-zoe\sprunk_terror_barrels_txd.ytd</Item>
     <Item>props-custom\props-zoe\sprunk_terror_broken_ship_2_txd.ytd</Item>
     <Item>props-custom\props-zoe\sprunk_terror_broken_ship_txd.ytd</Item>
