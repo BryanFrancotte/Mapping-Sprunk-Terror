@@ -26,8 +26,13 @@
     <Item>sprunk_stand_suburban.ymap</Item>
     <Item>sprunk_stand_yellow_jack.ymap</Item>
     <Item>sprunk_strangerthings.ymap</Item>
+    <Item>sprunk_terror_bin.ymap</Item>
     <Item>sprunk_terror_bridge.ymap</Item>
     <Item>sprunk_terror_bridge_deco.ymap</Item>
+    <Item>sprunk_terror_g6.ymap</Item>
+    <Item>sprunk_terror_hen.ymap</Item>
+    <Item>sprunk_terror_osheas.ymap</Item>
+    <Item>sprunk_terror_parking.ymap</Item>
     <Item>sprunk_terror_welcom_island_animated_props.ymap</Item>
     <Item>sprunk_welcome_island.ymap</Item>
     <Item>sprunk_welcome_island_part_2.ymap</Item>
@@ -48,7 +53,6 @@
     <Item>props-custom\props-anime\sprunk_terror_scalet_diffindo_prop.ytyp</Item>
     <Item>props-custom\props-cloth-shop\67_beetlejuice_67.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_shark_beetlejuice.ytyp</Item>
-    <Item>props-custom\props-cloth-shop\sprunk_terror_bed.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_beetlejuice.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_big_stand.ytyp</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_curtains.ytyp</Item>
@@ -83,6 +87,7 @@
     <Item>props-custom\props-moon-pirate\sub_plant_vegetation_1a.ytyp</Item>
     <Item>props-custom\props-pitch\sprunk_pitch_types.ytyp</Item>
     <Item>props-custom\props-terror-sign\sprunk_terror_signs.ytyp</Item>
+    <Item>props-custom\props-totem\sprunk_terror_totem_types.ytyp</Item>
     <Item>props-custom\props-zoe\medievaldoor2_new_mely.ytyp</Item>
     <Item>props-custom\props-zoe\piratebay_thelab.ytyp</Item>
     <Item>props-custom\props-zoe\sfera_luminosa.ytyp</Item>
@@ -157,6 +162,7 @@
     <Item>props-custom\props-cloth-shop\sprunk_terror_purge_2.ydr</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_purge_3.ydr</Item>
     <Item>props-custom\props-cloth-shop\sprunk_terror_purge_4.ydr</Item>
+    <Item>props-custom\props-cloth-shop\sprunk_terror_ramen_bar.ydr</Item>
     <Item>props-custom\props-dirty\cs2_30_seaweed_long_m.ydr</Item>
     <Item>props-custom\props-dirty\sprunk_terror_mao_uni_01.ydr</Item>
     <Item>props-custom\props-dirty\sprunk_terror_mao_uni_01a.ydr</Item>
@@ -267,6 +273,7 @@
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_jbk.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_leopold.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_lsmc.ydr</Item>
+    <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_osheas.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_punk_noodles_head.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_sprunk.ydr</Item>
     <Item>props-custom\props-logo-partenaire\sprunk_terror_logo_sprunk_big.ydr</Item>
